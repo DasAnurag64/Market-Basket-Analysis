@@ -1,0 +1,24 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice
+101,Pathani Kurta Classic,Fashion & Apparel,Ethnic Wear,1299
+102,Linen Cotton Kurta,Fashion & Apparel,Ethnic Wear,1499
+103,Pajama / Salwar White,Fashion & Apparel,Ethnic Wear,499
+104,Embroidered Nehru Jacket,Fashion & Apparel,Outerwear,1899
+105,Slim Fit Denim Jeans,Fashion & Apparel,Bottomwear,1599
+106,Cotton Casual Shirt,Fashion & Apparel,Topwear,999
+107,Leather Formal Belt,Fashion & Apparel,Accessories,499
+108,Pure Cotton Vest (Pack of 2),Fashion & Apparel,Innerwear,399
+109,Fast Charging USB-C Cable,Electronics & Accessories,Mobile Accessories,299
+110,65W GaN Wall Adapter,Electronics & Accessories,Mobile Accessories,1299
+111,TWS Wireless Earbuds,Electronics & Accessories,Audio,1999
+112,Silicone Protective Case,Electronics & Accessories,Cases & Covers,199
+113,Tempered Glass Screen Guard,Electronics & Accessories,Screen Protectors,149
+114,Magnetic Car Mobile Mount,Electronics & Accessories,Car Accessories,449
+115,10000mAh Power Bank,Electronics & Accessories,Power & Battery,1199
+116,Leather Kolhapuri Mojari,Footwear & Essentials,Ethnic Footwear,1199
+117,Breathable Running Sneakers,Footwear & Essentials,Athletic,2499
+118,Comfort Slides / Slippers,Footwear & Essentials,Footwear,499
+119,Cotton Ankle Socks (Pack of 3),Footwear & Essentials,Hosiery,249
+120,Beard Growth Oil (50ml),Personal Care & Grooming,Grooming,349
+121,Charcoal Face Wash (100ml),Personal Care & Grooming,Skincare,249
+122,Matte Finish Hair Clay Wax,Personal Care & Grooming,Hair Styling,399
+123,Eau De Parfum Luxury Attar (30ml),Personal Care & Grooming,Fragrance,899
