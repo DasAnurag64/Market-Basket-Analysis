@@ -111,5 +111,5 @@ The analysis was performed against transaction logs using SQL window functions, 
 
 ## 👤 Author & Contact
 
-* **Project Owner:** Data Analytics Portfolio
+* **Project Owner:** Anurag Das
 * **Tools Used:** SQL Server (SSMS), Microsoft Excel, Association Rule Mining
